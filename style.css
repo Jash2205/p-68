@@ -1,0 +1,23 @@
+#h{
+    color: snow;
+}
+#intro2{
+     background-image: linear-gradient(#0cf2ee,green);
+}
+body{
+    text-align: center;
+    
+}
+#logo{
+height: 50px;
+    width: 50px;
+}
+#church{
+    height: 400px;
+    width: 400px;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
